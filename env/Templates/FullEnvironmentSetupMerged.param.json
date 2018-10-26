@@ -3,37 +3,43 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "WebsiteName": {
-            "value": ""
+            "value": "przemopu"
         },
         "PartsUnlimitedServerName": {
-            "value": ""
+            "value": "przemopuservername"
         },
         "PartsUnlimitedHostingPlanName": {
-            "value": ""
+            "value": "przemopuhostingplanname"
         },
         "CdnStorageAccountName": {
-            "value": ""
+            "value": "pustracc"
         },
         "CdnStorageContainerName": {
-            "value": ""
+            "value": "pustrcntr"
         },
         "CdnStorageAccountNameForDev": {
-            "value": ""
+            "value": "pustraccdev"
         },
         "CdnStorageContainerNameForDev": {
-            "value": ""
+            "value": "pustrcntrdev"
         },
         "CdnStorageAccountNameForStaging": {
-            "value": ""
+            "value": "pustraccstaging"
         },
         "CdnStorageContainerNameForStaging": {
-            "value": ""
+            "value": "pustrcntrstaging"
         },
         "PartsUnlimitedServerAdminLoginPassword": {
-            "value": ""
+            "value": "Pa$$w0rd01"
         },
         "PartsUnlimitedServerAdminLoginPasswordForTest": {
-            "value": ""
-        }
+            "value": "Pa$$w0rd01"
+        },
+      "PartsUnlimitedDBName": {
+        "value": "pudbfesm"
+      },
+      "PartsUnlimitedHostingPlanWorkerSize": {
+        "value": "1"
+      }
     }
 }
